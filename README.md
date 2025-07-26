@@ -31,4 +31,4 @@ This project requires the [Mars](https://dpetersanderson.github.io/) IDE.
 
 ## Demonstration
 
-![./demonstration.mp4]
+![Demonstration](https://github.com/Ottatop/chess-in-mips/blob/main/demonstration.mp4)
